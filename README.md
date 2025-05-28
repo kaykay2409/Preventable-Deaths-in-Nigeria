@@ -8,7 +8,7 @@ Preventable deaths remain a major concern in Nigeria, particularly in rural area
 - Examine the relationship between healthcare access (medicine and hospitals) and preventable deaths.
 - Examine the differences between preventable death in the village and city.
 - Identify differences in symptoms, demographics, and outcomes between cities and villages.
-- Generate visual insights to support data-driven public health decisions.
+- Generate **visual** insights to support data-driven public health decisions.
 
   ### Tools Used
   - MS Excel
